@@ -28,7 +28,7 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
 
 
-public class RestTest {
+public class RestTest{
 	
 	public static List<String> list = new ArrayList<String>();
 	
